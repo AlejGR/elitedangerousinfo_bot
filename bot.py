@@ -14,10 +14,10 @@ from pymongo import MongoClient
 
 administrador = [11186174]
 admin = [4891212,11186174]
-TOKEN = '180904359:AAH3tZpjGSIG8k66Tn3QlnRefGxxAyx-V_g'
+TOKEN = ''
 usuarios = [line.rstrip('\n') for line in open('usuarios.txt')] # Cargamos la lista de usuarios.
 numeros = [line.rstrip('\n') for line in open('numeros.txt')] # Cargamos la lista de usuarios.
-bot = telebot.TeleBot ('180904359:AAH3tZpjGSIG8k66Tn3QlnRefGxxAyx-V_g')
+bot = telebot.TeleBot ('')
 markup = types.ForceReply(selective=False)
 userStep=dict()
 encuesta = {
