@@ -41,7 +41,7 @@ def listener(messages):
             f.write(mensaje + "\n")
             f.close()
             print (mensaje)
-            
+
 
 bot.set_update_listener(listener)
 
@@ -98,7 +98,7 @@ def ayuda(m):
         if cid > 0:
             bot.send_chat_action(cid, 'typing')
             bot.send_message(cid, "Este bot ofrece Información de Elite Dangerous, los comandos disponibles son: \n /sistemas <Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado. \n /productos <Nombre del producto (en inglés)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado \n /contactar <mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot. \n /radios - Muestra las radios conocidad de Elite Dangerous. \n /nave - muestra la información de la nave que quieras ver. \n /navesdisponibles - muestra las naves disponibles. \n \n" + str(version), parse_mode="Markdown")
-            bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))    
+            bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))
         else:
             pass
     else:
@@ -108,7 +108,7 @@ def ayuda(m):
             bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))
         else:
             pass
-        
+
 @bot.message_handler(commands=['help'])
 def help(m):
     cid = m.chat.id
@@ -119,8 +119,8 @@ def help(m):
     if uid in administrador:
         if cid > 0:
             bot.send_chat_action(cid, 'typing')
-            bot.send_message(cid, "Este bot ofrece Información de Elite Dangerous, los comandos disponibles son: \n /sistemas <Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado.\n /productos <Nombre del producto (en inglés)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado \n /contactar <mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot. \n /radios - Muestra las radios conocidad de Elite Dangerous. \n /nave - muestra la información de la nave que quieras ver. \n /navesdisponibles - muestra las naves disponibles. \n \n" + str(version), parse_mode="Markdown")
-            bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))    
+            bot.send_message(cid, "Este bot ofrece Información de Elite Dangerous, los comandos disponibles son: \n /sistemas <Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado.\n /productos <Nombre del producto (en inglés los productos de la 2.2)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado \n /contactar <mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot. \n /radios - Muestra las radios conocidad de Elite Dangerous. \n /nave - muestra la información de la nave que quieras ver. \n /navesdisponibles - muestra las naves disponibles. \n \n" + str(version), parse_mode="Markdown")
+            bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))
         else:
             pass
     else:
@@ -132,10 +132,10 @@ def help(m):
             if cid == namsel:
                bot.send_chat_action(cid, 'typing')
                bot.send_message(cid, "Este bot ofrece Información de Elite Dangerous, los comandos disponibles son: \n /sistemas <Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado.\n /productos <Nombre del producto (en inglés)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado \n /contactar <mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot. \n /radios - Muestra las radios conocidad de Elite Dangerous. \n /nave - muestra la información de la nave que quieras ver. \n /navesdisponibles - muestra las naves disponibles. \n \n" + str(version), parse_mode="Markdown")
-               bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))  
+               bot.send_message(11186174, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))
             else:
                 pass
-        
+
 @bot.message_handler(commands=['contactar'])
 def command_contactar(m):
     cid = m.chat.id
@@ -148,7 +148,7 @@ def command_contactar(m):
         bot.send_message( 11186174, "*Mensaje*:" + msg  + "\n" + "*Usuario*: " + str(name) + " - " + "@" + str(m.from_user.username) + "\n" + "*ID*: " + str(cid), parse_mode="Markdown")
     else:
          bot.send_message( cid, "Error, Tienes que poner '/contactar cualquier mensaje'. Ejemplo:\n/contactar Hola.")
-    
+
 #################################
 #   ACCESO A LA BASE DE DATOS   #
 #################################
@@ -189,7 +189,7 @@ def command_sistemas(m):
             consulta = "Me da que eso no existe."
     else:
         consulta = "Macho, pon el nombre"
-    
+
     bot.send_message(cid, consulta, parse_mode="Markdown")
 
 @bot.message_handler(commands=['productos'])
@@ -638,7 +638,7 @@ def command_productos(m):
             consulta = "Me da que ese producto no existe, Si crees que este objeto que has buscado existe y esta bien escrito pongase en contacto con nosotros usando /contactar"
     else:
         consulta = "Macho, pon el nombre"
-    
+
     bot.send_message(cid, consulta, parse_mode="Markdown")
 
 @bot.message_handler(commands=['radios'])
@@ -676,16 +676,16 @@ def command_naves(m):
         msgmin = msg.lower()
         naves = ['adder', 'anaconda', 'asp explorer','cobra mkiii', 'diamondback explorer', 'diamondback scout', 'eagle', 'fer-de-lance', 'hauler', 'orca', 'python', 'sidewinder', 'type 6', 'type 7', 'type 9', 'viper mkiii', 'vulture']
         if msgmin in naves:
-            archivo = open("naves/" + str(msgmin) + ".txt", "r") 
+            archivo = open("naves/" + str(msgmin) + ".txt", "r")
             nave = archivo.read()
             bot.send_photo(cid,open("naves/" + str(msgmin) + '.jpg','rb'))
             bot.send_message(cid,nave, parse_mode="Markdown")
         else:
              bot.send_message(cid, "Esa nave no existe o aún no está en nuestra base de datos.")
-    else: 
+    else:
         bot.send_message(cid, "Te falta el nombre de la nave.")
-        
-@bot.message_handler(commands=['navesdisponibles'])     
+
+@bot.message_handler(commands=['navesdisponibles'])
 def navesdisponibles(m):
     cid = m.chat.id
     naves = ['Adder', 'Anaconda', 'Asp explorer','Cobra MkIII', 'Diamondback Explorer', 'Diamondback Scout', 'Eagle', 'Fer-De-Lance', 'Hauler', 'Orca', 'Python', 'Sidewinder', 'Type 6', 'Type 7', 'Type 9', 'Viper MkIII', 'Vulture']
@@ -769,7 +769,7 @@ def command_reset(m):
 
 ###################
 #  ACTUALIZAR BD  #
-################### 
+###################
 
 @bot.message_handler(commands=['actualizardb'])
 def updatedb(m):
@@ -811,7 +811,7 @@ def usuarioscontar(m):
         bot.send_message(cid, contenidousuario + "\n" + 'Nº de usuarios: ' +  str(lineas))
     else:
         bot.send_message(cid, "Esta información es confidencial.")
-        
+
 @bot.message_handler(commands=['privado'])
 def command_responder(m):
     cid = m.chat.id # Al igual que el comando de difundidos, este tiene seguridad.
@@ -823,7 +823,7 @@ def command_responder(m):
         try: # Intentamos enviarlo.
         	bot.send_message( mensajeID, mensajeB)
         except Exception: # En caso de fallo, avisamos del error.
-        	enviar = "-> [" + str(mensajeID) + "]: ERROR enviando mensaje privado." 
+        	enviar = "-> [" + str(mensajeID) + "]: ERROR enviando mensaje privado."
         else: # En caso de acierto, avisamos del éxito.
             enviar = "-> [" + str(mensajeID) + "]: ÉXITO enviando mensaje privado."
         bot.send_message( cid, enviar)
@@ -836,5 +836,5 @@ def command_responder(m):
 
 #############
 #  PRUEBAS  #
-############# 
+#############
 bot.polling(none_stop=True)
