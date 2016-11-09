@@ -1,0 +1,9 @@
+{
+    "rotation":"file_id",
+    "usuarios":"file_id",
+    "numeros":"file_id",
+    "token":"<TOKEN>",
+    "administrador":"[ID]",
+    "admin":"[ID,ID2]",
+    "namsel":"[IDnamel]"
+  }
