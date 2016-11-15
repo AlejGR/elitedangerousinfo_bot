@@ -1,0 +1,23 @@
+Sidewinder MkI
+Coste: 32.000*
+Seguro: 1.600
+Velocidad Stock: 220m/s
+Velocidad máxima: -m/s
+Velocidad con Boost Stock: 321m/s
+Velocidad con Boost máxima: -m/s
+Maniobrabilidad: 8
+Escudos: 52MJ
+Armadura: 108
+Cargo: 4T
+Cargo máximo: 12T
+Capacidad de Salto: 7.56ly
+Capacidad Máxima de Salto: 24.43y
+Hardpoints: 2pequeños
+Utilities: 2
+Mass Lock: 6
+Landing Pad: Pequeño
+* La sidewinder es la nave inicial y siempre se puede volver a ella por 0 créditos
+
+Información: La Sidewinder es la nave inicial y por lo tanto una de las que más recuerdos tendremos. Se solía usar de marcador de mapa antes de la 2.1 o para luchar con láseres de minería. 
+
+Abreviaciones: Sidey

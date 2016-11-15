@@ -1,0 +1,23 @@
+*Asp Explorer*
+*Coste:* 6.661.153
+*Seguro:* 333.057
+*Velocidad Stock:* 254m/s
+*Velocidad máxima:* 290m/s
+*Velocidad con Boost Stock:* 345m/s
+*Velocidad con Boost máxima:* 395m/s
+*Maniobrabilidad:* 6
+*Escudos:* 152MJ
+*Armadura:* 378
+*Cargo:* 38T
+*Cargo máximo:* 128T
+*Capacidad de Salto:* 13.12ly
+*Capacidad Máxima de Salto:* 38.19ly
+*Hardpoints:* 2 pequeños, 2 medios 
+*Utilities:* 4
+*Mass Lock:* 11
+*Landing Pad:* Medio
+
+
+*Información:* _La Asp Explorer es una de nave muy ambivalente. Puede ser usada para todo, comercio combate y exploración. También es muy usada en contrabando y comercio de rares._
+
+*Abreviaciones:* _AspEx, AspE, Aspirin._

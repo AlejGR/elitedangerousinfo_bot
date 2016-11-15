@@ -1,0 +1,23 @@
+Type-6 Transporter
+Coste: 1.045.945
+Seguro: 52.297
+Velocidad Stock: 220m/s
+Velocidad máxima: -m/s
+Velocidad con Boost Stock: 350m/s
+Velocidad con Boost máxima: -m/s
+Maniobrabilidad: 3
+Escudos: 90MJ
+Armadura: 90
+Cargo: 50T
+Cargo máximo: 112T
+Capacidad de Salto: 12.39ly
+Capacidad Máxima de Salto: 30.73ly
+Hardpoints: 2pequeños
+Utilities: 3
+Mass Lock: 8
+Landing Pad: Medio
+
+
+Información: La T6 es una nave de transporte como su nombre indica. También puede usarse en exploración por su cabina.
+
+Abreviaciones: T6, T-6

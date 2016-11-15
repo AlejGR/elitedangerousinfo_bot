@@ -1,8 +1,3 @@
-#encoding=utf8
-import telebot
-from telebot import types
-import time
-import sys
 from imp import reload
 import urllib3
 reload(sys)
@@ -13,18 +8,18 @@ from pymongo import MongoClient
 import csv
 import plugins_dev
 
-with open("./plugins_dev/ident_dev.json") as f:
-    ident = json.load(f) #load JSON in varible
+with open("ident_dev.json") as f:
+    ident = json.load(f)  #load JSON in varible
 
 #############
 #Information#
 #############
 
-administrador = ['administrador'] #ID of Superadmin
-admin = ['admin'] #ID of admins
-bot = telebot.TeleBot('TOKEN')
-usuarios = [line.rstrip('\n') for line in open('usuarios')] #load the file usuario in JSON
-numeros = [line.rstrip('\n') for line in open('numeros')] #load the file numeros in JSON
+administrador = ident['administrador'] #ID of Superadmin
+admin = ident['admin'] #ID of admins
+bot = telebot.TeleBot(ident['TOKEN'])
+usuarios = [line.rstrip('\n') for line in open(ident['usuarios'])] #load the file usuario in JSON
+numeros = [line.rstrip('\n') for line in open(ident['numeros'])] #load the file numeros in JSON
 userStep=dict()
 
 ###############
@@ -41,3 +36,6 @@ def get_user_step(comandante):
     if comandante in userStep:
         return userStep[comandante]
     return 0
+
+with open('responses.json') as f:
+    responses = json.load(f)

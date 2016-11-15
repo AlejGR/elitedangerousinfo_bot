@@ -1,0 +1,21 @@
+*Adder*
+*Coste:* 87.808
+*Seguro:* 4.390
+*Velocidad Stock:* 220m/s
+*Velocidad máxima:* 255m/s
+*Velocidad con Boost Stock:* 320m/s
+*Velocidad con Boost máxima:* 372m/s
+*Maniobrabilidad:* 8
+*Escudos:* 60MJ
+*Armadura:* 90
+*Cargo:* 8T
+*Cargo máximo:* 26T
+*Capacidad de Salto:* 9.12ly
+*Capacidad Máxima de Salto:* 32.96ly
+*Hardpoints:* 2 pequeños y 1 medio
+*Utilities:* 2
+*Mass Lock:* 7
+*Landing Pad:* Pequeño
+
+
+*Información:* _La Adder es una nave de inicio bastante equilibrada, se suele usar como minera o de comercio leve y es muy buena en ambos en su rango de precio._

@@ -1,7 +1,0 @@
-Este bot ofrece Información de Elite Dangerous, los comandos disponibles son: \n
-/sistemas <Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado.\n
-/productos <Nombre del producto (en inglés los productos de la 2.2)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado \n
-/contactar <mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot. \n /radios - Muestra las radios conocidad de Elite Dangerous. \n
-/nave - muestra la información de la nave que quieras ver. \n
-/navesdisponibles - muestra las naves disponibles. 
-\n \n" + str(version)
