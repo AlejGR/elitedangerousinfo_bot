@@ -7,7 +7,7 @@ def command_productos(m):
     cid = m.chat.id
     #if len(m.text.split()) >= 2:
         #name = m.text.split(' ',1)[1]
-   bot.send_message(cid,"introduzca el nombre del producto")
+    bot.send_message(cid,"introduzca el nombre del producto")
     name = m.text
     userStep[m.from_user.first_name] = 'productos'
 
