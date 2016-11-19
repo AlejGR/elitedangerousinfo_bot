@@ -1,0 +1,23 @@
+*Anaconda*
+*Coste:* 146.969.451
+*Seguro:* 7.348.472
+*Velocidad Stock:* 183m/s
+*Velocidad máxima:* 209m/s
+*Velocidad con Boost Stock:* 244m/s
+*Velocidad con Boost máxima:* 279m/s
+*Maniobrabilidad:* 2
+*Escudos:* 362MJ
+*Armadura:* 945
+*Cargo:* 114T
+*Cargo máximo:* 468T
+*Capacidad de Salto:* 9.41ly
+*Capacidad Máxima de Salto:* 41.45ly
+*Hardpoints:* 2 pequeños, 2 medios, 3 grandes y 1 enorme
+*Utilities:* 8
+*Mass Lock:* 23
+*Landing Pad:* Grande
+
+
+*Información:* _La Anaconda es una de las naves grandes. Puede ser usada para todo, comercio combate y exploración. Es muy lenta._
+
+*Abreviaciones:* _Annie, Conda, Connie, SpaceCow, Exploraconda._

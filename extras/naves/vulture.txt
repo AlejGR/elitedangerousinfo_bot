@@ -1,0 +1,23 @@
+Vulture
+Coste: 4.925.615
+Seguro: 246.280
+Velocidad Stock: 215m/s
+Velocidad máxima: 244m/s
+Velocidad con Boost Stock: 348m/s
+Velocidad con Boost máxima: 397m/s
+Maniobrabilidad: 9
+Escudos: 293MJ
+Armadura: 288
+Cargo: 8T
+Cargo máximo: 56T
+Capacidad de Salto: 7.93ly
+Capacidad Máxima de Salto: 22.36ly
+Hardpoints: 2grandes
+Utilities: 4
+Mass Lock: 10
+Landing Pad: Pequeño
+
+
+Información:La Vulture es una nave muy usada, su alto potencial de fuego y su elevada defensa la hacen una gran nave. Es muy usada por los cmdrs de este grupo. Se considera una nave OP. Su precio de salida fue muy elevado pero lo bajaron tras las quejas.
+
+Abreviaciones: OPShip

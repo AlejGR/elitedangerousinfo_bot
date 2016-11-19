@@ -1,0 +1,21 @@
+Viper MkIV
+Coste: 437.930
+Seguro: 21.896
+Velocidad Stock: 271m/s
+Velocidad máxima: 314m/s
+Velocidad con Boost Stock: 342m/s
+Velocidad con Boost máxima: 395m/s
+Maniobrabilidad: 4
+Escudos: 103MJ
+Armadura: 270
+Cargo: 18T
+Cargo máximo: 50T
+Capacidad de Salto: 10.36ly
+Capacidad Máxima de Salto: 27.38ly
+Hardpoints: 2pequeños y 2medios
+Utilities: 2
+Mass Lock: 7
+Landing Pad: Pequeño
+
+
+Información: La Viper MKIV es una nave orientada al combate como su predecesora. Igual que pasa con la cobra MKIV  no es una mejora y apenas se usa. Lo unico destacable es su alerón trasero.

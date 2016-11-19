@@ -1,0 +1,24 @@
+{"help":{
+  "admin":"los comandos son los siguientes:",
+  "user":"los comando son los siguientes:"
+}
+
+,"commands":{
+    "admin":{
+"sistemas":"<Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado.",
+"productos":"<Nombre del producto (en inglés los productos de la 2.2)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado",
+"contactar":"<mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot.",
+"radios":"Muestra las radios conocidad de Elite Dangerous.",
+"nave":"Muestra la información de la nave que quieras ver.",
+"navesdisponibles":"Muestra las naves disponibles."
+},
+    "user":{
+"sistemas":"<Nombre del sistemas> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del sistema buscado.",
+"productos":"<Nombre del producto (en inglés los productos de la 2.2)> (La búsqueda distingue entre mayúsculas y minúsculas) - Muestra la información del producto buscado",
+"contactar":"<mensaje> - Este comando está destinado a problemas/sugerencias que ocurran con el bot.",
+"radios":"Muestra las radios conocidad de Elite Dangerous.",
+"nave":"Muestra la información de la nave que quieras ver.",
+"navesdisponibles":"Muestra las naves disponibles."
+    }
+}
+}

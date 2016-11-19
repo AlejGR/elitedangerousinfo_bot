@@ -1,0 +1,22 @@
+*Diamondback Scout*
+*Coste:* 564.320
+*Seguro:* 28.216
+*Velocidad Stock:* 286m/s
+*Velocidad máxima:* 329m/s
+*Velocidad con Boost Stock:* 384m/s
+*Velocidad con Boost máxima:* 441m/s
+*Maniobrabilidad:* 8
+*Escudos:* 92MJ
+*Armadura:* 216
+*Cargo:* 0T
+*Cargo máximo:* 28T
+*Capacidad de Salto:* 11.35ly
+*Capacidad Máxima de Salto:* 30.04ly
+*Hardpoints:* 2 pequeños y 2 medios 
+*Utilities:* 4
+*Mass Lock:* 8
+*Landing Pad:* Pequeño
+
+*Información:* _La Diamondback es una nave  tipo insecto (Relacionada con los Thargoides). Se usa en pvp con silent running y por su forma es muy dificil de dar con armas fijas._
+
+*Abreviaciones:* _DBS, MosquitoS._
