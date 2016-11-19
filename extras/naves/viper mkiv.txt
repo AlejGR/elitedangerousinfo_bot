@@ -1,21 +1,22 @@
-Viper MkIV
-Coste: 437.930
-Seguro: 21.896
-Velocidad Stock: 271m/s
-Velocidad máxima: 314m/s
-Velocidad con Boost Stock: 342m/s
-Velocidad con Boost máxima: 395m/s
-Maniobrabilidad: 4
-Escudos: 103MJ
-Armadura: 270
-Cargo: 18T
-Cargo máximo: 50T
-Capacidad de Salto: 10.36ly
-Capacidad Máxima de Salto: 27.38ly
-Hardpoints: 2pequeños y 2medios
-Utilities: 2
-Mass Lock: 7
-Landing Pad: Pequeño
+*Viper MkIV*
+*Coste:* 437.930
+*Seguro:* 21.896
+*Velocidad Stock:* 271m/s
+*Velocidad máxima:* 314m/s
+*Velocidad con Boost Stock:* 342m/s
+*Velocidad con Boost máxima:* 395m/s
+*Maniobrabilidad:* 4
+*Escudos:* 103MJ
+*Armadura:* 270
+*Cargo:* 18T
+*Cargo máximo:* 50T
+*Capacidad de Salto:* 10.36ly
+*Capacidad Máxima de Salto:* 27.38ly
+*Hardpoints:* 2 pequeños, 2 medios
+*Utilities:* 2
+*Mass Lock:* 7
+*Landing Pad:* Pequeño
 
+[Configuración de Combate](http://coriolis.edcd.io/outfit/viper_mk_iv/2pataFal8dasdf41a1a18180002455d58272766.AwRj4yKA.AwjMIRmAmW56IAsQ.?bn=Viper%20Mk4%20Combate)
 
-Información: La Viper MKIV es una nave orientada al combate como su predecesora. Igual que pasa con la cobra MKIV  no es una mejora y apenas se usa. Lo unico destacable es su alerón trasero.
+*Información:* _La Viper MKIV es una nave orientada al combate como su predecesora. Igual que pasa con la cobra MKIV  no es una mejora y apenas se usa. Lo unico destacable es su alerón trasero._

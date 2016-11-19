@@ -12,9 +12,11 @@
 *Cargo máximo:* 16T
 *Capacidad de Salto:* 8.47ly
 *Capacidad Máxima de Salto:* 25.37ly
-*Hardpoints:* 3 pequeños  
+*Hardpoints:* 3 pequeños
 *Utilities:* 1
 *Mass Lock:* 6
 *Landing Pad:* Pequeño
+
+[Configuración de Combate](http://coriolis.edcd.io/outfit/eagle/2p0tzF5l3d5s8f21717170040272525.AwRj4yg=.AwgswRhBmWCYoiA=.?bn=Eagle%20Combate)
 
 *Información:* _La Eagle es una nave muy debil pero muy rápida y maniobrable._

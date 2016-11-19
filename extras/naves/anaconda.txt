@@ -17,6 +17,16 @@
 *Mass Lock:* 23
 *Landing Pad:* Grande
 
+[Configuración de Combate](http://coriolis.edcd.io/outfit/anaconda/2putpFklndzsxf57o1d1d1d2727191900040303020204044k5n5n3c2d5i5l2b2b2b6b.AwRj4yuqg===.AzCMGY1YCY-h5wNjALLEI1A=.?bn=anaconda%20combate)
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/anaconda/0pxtsFklndzsxf51f1f1f1f1c1c2j2j00000202030303010605054f04040403030301.Iw18ZlA=.Aw18ZlA=.?bn=anaconda%20Comercio)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/anaconda/0pxtsFklndzsxf51f1f1f1f2m2m191900000202030303010605054fCeCePe1v032i2f.Iw18ZlA=.Aw18ZlA=.?bn=anaconda%20mineria)
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/anaconda/0pktnFklndksxf5--------020202-----3h4d1111---v4v42f2i.Iw18ZlA=.Aw18ZlA=.?bn=anaconda%20exploracion)
+[Configuración Multifunción](http://coriolis.edcd.io/outfit/anaconda/2putpFklndzsxf57r1f1f1e1c1c2l2l030200000304040e4k5n05056l37CeP9v41v2f.AwRj4yuqg===.AwgswRg4CY-hcJ1HEBmU7vuEA===.?bn=Anaconda%20Multifunci%C3%B3n)
+[Configuración Multifunción con Caza](http://coriolis.edcd.io/outfit/anaconda/2putpFklndzsxf57r1f1f1e1c1c2l2l030200000304040e4k5n0505fr37CeP9v4222f.AwRj4yuqg===.CwBhoRgkCY-hcJ2HMBmY7OiA.?bn=Anaconda%20Multifunci%C3%B3n%20con%20Caza)
+[Configuración de Combate con Caza](http://coriolis.edcd.io/outfit/anaconda/2putpFklndzsxf57o1d1d1d2727191900040303020204044k5n5nfr2d5i5l2b2b2b6b.AwRj4yuqg===.AzCMGY1YCY-h5wNjALLEI1A=.?bn=anaconda%20combate%20con%20Caza)
+[Configuración de Comercio con Caza](http://coriolis.edcd.io/outfit/anaconda/0pxtsFklndzsxf51f1f1f1f1c1c2j2j00000202030303010605054f0404fr03030301.Iw18ZlA=.Aw18ZlA=.?bn=anaconda%20Comercio%20con%20Caza)
+[Configuración de Exploración con Caza](http://coriolis.edcd.io/outfit/anaconda/0pxtsFklndzsxf51f1f1f1f1c1c2j2j00000202030303010605054f0404fr03030301.Iw18ZlA=.Aw18ZlA=.?bn=anaconda%20Comercio%20con%20Caza)
+
 
 *Información:* _La Anaconda es una de las naves grandes. Puede ser usada para todo, comercio combate y exploración. Es muy lenta._
 

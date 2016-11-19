@@ -17,5 +17,8 @@
 *Mass Lock:* 7
 *Landing Pad:* Pequeño
 
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/adder/0p8t5F5l3d8sdf3--kp00-02023r0100.Iw1+kA==.Aw1+kA==.?bn=Adder%20transporte)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/adder/0p8t5F5l3d8sdf31b2l2l00-02021lC5P4.Iw1+kA==.Aw1+kA==.?bn=Adder%20Mineria)
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/adder/0p0t3F5l3d3sdf3---02022t0i3u2f2i.Iw1+kA==.Aw1+kA==.?bn=Adder%20Exploracion)
 
 *Información:* _La Adder es una nave de inicio bastante equilibrada, se suele usar como minera o de comercio leve y es muy buena en ambos en su rango de precio._

@@ -12,10 +12,14 @@
 *Cargo máximo:* 52T
 *Capacidad de Salto:* 14.15ly
 *Capacidad Máxima de Salto:* 34.26ly
-*Hardpoints:* 2 medios y 1 grande 
+*Hardpoints:* 2 medios, 1 grande
 *Utilities:* 4
 *Mass Lock:* 10
 *Landing Pad:* Pequeño
+
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/diamondback_explorer/0p6tdFflddisdf5---0202--320nv62f2i.Iw1-kA==.Aw1-kA==.?bn=DB%20Explorer)
+[Configuración Alternativa de Exploración](http://coriolis.edcd.io/outfit/diamondback_explorer/0pdtdFflddisdf5---02020202320n0i2i2f.Iw1-kA==.Aw1-kA==.?bn=Escarabajo)
+[Configuracióno de Combate](http://coriolis.edcd.io/outfit/diamondback_explorer/2pataFflddfsdf51d1a1a02020004455d292927.AwRj4yKA.AwgswRg4CY-msTCA.?bn=DB%20Explorer%20Combate)
 
 *Información:* _La Diamondback Explorer es una nave  tipo insecto (Relacionada con los Thargoides). Se usa en exploración sin bajar a planetas y por su forma es muy dificil de dar con armas fijas._
 

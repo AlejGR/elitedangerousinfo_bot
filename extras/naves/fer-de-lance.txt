@@ -12,10 +12,12 @@
 *Cargo máximo:* 70T
 *Capacidad de Salto:* 7.04ly
 *Capacidad Máxima de Salto:* 20.94ly
-*Hardpoints:* 4 medios y 1 enorme  
+*Hardpoints:* 4 medios, 1 enorme
 *Utilities:* 6
 *Mass Lock:* 12
 *Landing Pad:* Medio
+
+[Configuración de Combate](http://coriolis.edcd.io/outfit/fer_de_lance/2pktfFalidpsif37q272727270000020204044a5d5d2o66.Iw18aQ==.AzCMBY1YCY-+pQGYXnEA.?bn=Ferdelance%20Combate)
 
 *Información:* _La Fer-de-Lance es una nave usada en pvp y pve pero con mayor inclinación a la primera. Su velocidad la hace mejor que la python para pvp._
 

@@ -1,23 +1,25 @@
-Type-6 Transporter
-Coste: 1.045.945
-Seguro: 52.297
-Velocidad Stock: 220m/s
-Velocidad máxima: -m/s
-Velocidad con Boost Stock: 350m/s
-Velocidad con Boost máxima: -m/s
-Maniobrabilidad: 3
-Escudos: 90MJ
-Armadura: 90
-Cargo: 50T
-Cargo máximo: 112T
-Capacidad de Salto: 12.39ly
-Capacidad Máxima de Salto: 30.73ly
-Hardpoints: 2pequeños
-Utilities: 3
-Mass Lock: 8
-Landing Pad: Medio
+*Type-6 Transporter*
+*Coste:* 1.045.945
+*Seguro:* 52.297
+*Velocidad Stock:* 220m/s
+*Velocidad máxima:* -m/s
+*Velocidad con Boost Stock:* 350m/s
+*Velocidad con Boost máxima:* -m/s
+*Maniobrabilidad:* 3
+*Escudos:* 90MJ
+*Armadura:* 90
+*Cargo:* 50T
+*Cargo máximo:* 112T
+*Capacidad de Salto:* 12.39ly
+*Capacidad Máxima de Salto:* 30.73ly
+*Hardpoints:* 2 pequeños
+*Utilities:* 3
+*Mass Lock:* 8
+*Landing Pad:* Medio
 
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/type_6_transporter/0p8tdFal8dds8f4--02000304040303400101.Iw1-kA==.Aw1-kA==.?bn=T6%20Carga)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/type_6_transporter/0p5tdFal8dds8f41919000203040403C0401lP4.Iw1-kA==.Aw1-kA==.?bn=T-6%20mineria)
 
-Información: La T6 es una nave de transporte como su nombre indica. También puede usarse en exploración por su cabina.
+*Información:* _La T6 es una nave de transporte como su nombre indica. También puede usarse en exploración por su cabina._
 
-Abreviaciones: T6, T-6
+*Abreviaciones:* _T6, T-6_

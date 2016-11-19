@@ -12,9 +12,14 @@
 *Cargo máximo:* 88T
 *Capacidad de Salto:* 9.37ly
 *Capacidad Máxima de Salto:* 24.91ly
-*Hardpoints:* 3 pequeños, 2 medios 
+*Hardpoints:* 3 pequeños, 2 medios
 *Utilities:* 2
 *Mass Lock:* 8
 *Landing Pad:* Pequeño
+
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/cobra_mk_iv/0pdtdFaldddsdf4---2jkp00030303030340020101.Iw18SQ==.Aw18SQ==.?bn=Cobra%20MK4%20comercio)
+[Configuración de Combate](http://coriolis.edcd.io/outfit/cobra_mk_iv/2pataFalddasdf41b1b1718180002455e5e2b29296b27.AwRj4ypI.AwgswRg4GYYJkYiiTHEA.?bn=Cobra%20MK4%20combate)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/cobra_mk_iv/0pdtaFaldddsdf41b1b-2l2l0003030303031qC001P4.Iw18SQ==.Aw18SQ==.?bn=Cobra%20MK4%20Mineria)
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/cobra_mk_iv/0pdtdFaldd8sdf4-----0202320n--43v62f2i.Iw18SQ==.Aw18SQ==.?bn=Cobra%20MK4%20exploracion)
 
 *Información:* _La Cobra MkIV es una nave "mejorada" de su predecesora pero su uso es nulo ya que es más lenta._

@@ -1,23 +1,26 @@
-Sidewinder MkI
-Coste: 32.000*
-Seguro: 1.600
-Velocidad Stock: 220m/s
-Velocidad máxima: -m/s
-Velocidad con Boost Stock: 321m/s
-Velocidad con Boost máxima: -m/s
-Maniobrabilidad: 8
-Escudos: 52MJ
-Armadura: 108
-Cargo: 4T
-Cargo máximo: 12T
-Capacidad de Salto: 7.56ly
-Capacidad Máxima de Salto: 24.43y
-Hardpoints: 2pequeños
-Utilities: 2
-Mass Lock: 6
-Landing Pad: Pequeño
-* La sidewinder es la nave inicial y siempre se puede volver a ella por 0 créditos
+*Sidewinder MkI*
+*Coste:* 32.000*
+*Seguro:* 1.600
+*Velocidad Stock:* 220m/s
+*Velocidad máxima: -m/s
+*Velocidad con Boost Stock:* 321m/s
+*Velocidad con Boost máxima:* -m/s
+*Maniobrabilidad:* 8
+*Escudos:* 52MJ
+*Armadura:* 108
+*Cargo:* 4T
+*Cargo máximo:* 12T
+*Capacidad de Salto:* 7.56ly
+*Capacidad Máxima de Salto:* 24.43y
+*Hardpoints:* 2 pequeños
+*Utilities:* 2
+*Mass Lock:* 6
+*Landing Pad:* Pequeño
+_La sidewinder es la nave inicial y siempre se puede volver a ella por 0 créditos_
 
-Información: La Sidewinder es la nave inicial y por lo tanto una de las que más recuerdos tendremos. Se solía usar de marcador de mapa antes de la 2.1 o para luchar con láseres de minería. 
+[Configuración de Combate](http://coriolis.edcd.io/outfit/sidewinder/2p0t0F0l3d0s3f1171700023r534u66.AwRj4yg=.AzCMGY1FgJlWIAsQ.?bn=Sidewinder%20combate)
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/sidewinder/0p3t3F0l3d3s3f1--00023r010000.AwRj4yg=.AzCMGY1FgJlWMg==.?bn=Sidewinder%20comercio)
 
-Abreviaciones: Sidey
+*Información:* _La Sidewinder es la nave inicial y por lo tanto una de las que más recuerdos tendremos. Se solía usar de marcador de mapa antes de la 2.1 o para luchar con láseres de minería._
+
+*Abreviaciones:* _Sidey_

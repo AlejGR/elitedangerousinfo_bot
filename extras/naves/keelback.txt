@@ -1,22 +1,26 @@
-Keelback
-Coste: 3.126.150
-Seguro: 156.307
-Velocidad Stock: 202m/s
-Velocidad máxima: 231m/s
-Velocidad con Boost Stock: 303m/s
-Velocidad con Boost máxima: 344m/s
-Maniobrabilidad: 2
-Escudos: 80MJ
-Armadura: 198
-Cargo: 38T
-Cargo máximo: 88T
-Capacidad de Salto: 10.94ly
-Capacidad Máxima de Salto: 27.19y
-Hardpoints: 2pequeños y 2medios
-Utilities: 3
-Mass Lock: 8
-Landing Pad: Medio
+*Keelback*
+*Coste:* 3.126.150
+*Seguro:* 156.307
+*Velocidad Stock:* 202m/s
+*Velocidad máxima:* 231m/s
+*Velocidad con Boost Stock:* 303m/s
+*Velocidad con Boost máxima:* 344m/s
+*Maniobrabilidad:* 2
+*Escudos:* 80MJ
+*Armadura:* 198
+*Cargo:* 38T
+*Cargo máximo:* 88T
+*Capacidad de Salto:* 10.94ly
+*Capacidad Máxima de Salto:* 27.19y
+*Hardpoints:* 2 pequeños, 2 medios
+*Utilities:* 3
+*Mass Lock:* 8
+*Landing Pad:* Medio
 
-Información: La Keelback es la version mas encarada al combate (y la defensa) de la T6. Se suele usar como mula de carga de fuel o para comercio de rares.
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/keelback/0pdtdFdl3dds8f4--kpkp0002-040402400101.Iw18UA==.Aw18UA==.?bn=Keelbak%20Comercio)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/keelback/0pataFdl3dds8f41c1c2l2l0002-0404401qC5P4.Iw18UA==.Aw18UA==.?bn=Keelbak%20Mineria)
+[Configuración de Combate](http://coriolis.edcd.io/outfit/keelback/2pataFal3das8f41b1b17170002034afr5e292727.AwRj4zKA.MwBhBYQRikCYGOgsIg==.?bn=Keelbak%20Combate)
 
-Abreviaciones: KB
+*Información:* _La Keelback es la version mas encarada al combate (y la defensa) de la T6. Se suele usar como mula de carga de fuel o para comercio de rares._
+
+*Abreviaciones:* _KB_

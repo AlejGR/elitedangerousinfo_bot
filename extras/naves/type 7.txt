@@ -1,23 +1,25 @@
-Type-7 Transporter
-Coste: 17.472.252
-Seguro: 873.612
-Velocidad Stock: 181m/s
-Velocidad máxima: -m/s
-Velocidad con Boost Stock: 301m/s
-Velocidad con Boost máxima: -m/s
-Maniobrabilidad: 2
-Escudos: 60MJ
-Armadura: 216
-Cargo: 104T
-Cargo máximo: 232T
-Capacidad de Salto: 10.68ly
-Capacidad Máxima de Salto: 25.16ly
-Hardpoints: 4pequeños
-Utilities: 4
-Mass Lock: 10
-Landing Pad: Grande
+*Type-7 Transporter*
+*Coste:* 17.472.252
+*Seguro:* 873.612
+*Velocidad Stock:* 181m/s
+*Velocidad máxima:* -m/s
+*Velocidad con Boost Stock:* 301m/s
+*Velocidad con Boost máxima:* -m/s
+*Maniobrabilidad:* 2
+*Escudos:* 60MJ
+*Armadura:* 216
+*Cargo:* 104T
+*Cargo máximo:* 232T
+*Capacidad de Salto:* 10.68ly
+*Capacidad Máxima de Salto:* 25.16ly
+*Hardpoints:* 4 pequeños
+*Utilities:* 4
+*Mass Lock:* 10
+*Landing Pad:* Grande
 
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/type_7_transport/0pctfFfliddsdf5--2jkp020001-0505040403450101.AwRj4yrI.Aw18aQ==.?bn=T7%20Carga)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/type_7_transport/0pctfFfliddsdf519192l2l020001-05050404031vC5P4.AwRj4yrI.Aw18aQ==.?bn=T7%20Mineria)
 
-Información: La T7 es una nave de transporte como su nombre indica. Por su tamaño y precio suelen cogerse las naves de facciones en su lugar.
+*Información:* _La T7 es una nave de transporte como su nombre indica. Por su tamaño y precio suelen cogerse las naves de facciones en su lugar._
 
-Abreviaciones: T7, T-7
+*Abreviaciones:* _T7, T-7_

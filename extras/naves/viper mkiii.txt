@@ -1,21 +1,22 @@
-Viper MkIII
-Coste: 142.931
-Seguro: 7.146
-Velocidad Stock: 324m/s
-Velocidad máxima: -m/s
-Velocidad con Boost Stock: 405m/s
-Velocidad con Boost máxima: 441m/s
-Maniobrabilidad: 6
-Escudos: 132MJ
-Armadura: 126
-Cargo: 4T
-Cargo máximo: 22T
-Capacidad de Salto: 6.92ly
-Capacidad Máxima de Salto: 21.28ly
-Hardpoints: 2pequeños y 2medios
-Utilities: 2
-Mass Lock: 7
-Landing Pad: Pequeño
+*Viper MkIII*
+*Coste:* 142.931
+*Seguro:* 7.146
+*Velocidad Stock:* 324m/s
+*Velocidad máxima:* -m/s
+*Velocidad con Boost Stock:* 405m/s
+*Velocidad con Boost máxima:* 441m/s
+*Maniobrabilidad:* 6
+*Escudos:* 132MJ
+*Armadura:* 126
+*Cargo:* 4T
+*Cargo máximo:* 22T
+*Capacidad de Salto:* 6.92ly
+*Capacidad Máxima de Salto:* 21.28ly
+*Hardpoints:* 2 pequeños, 2 medios
+*Utilities:* 2
+*Mass Lock:* 7
+*Landing Pad:* Pequeño
 
+[Configuración de Combate](http://coriolis.edcd.io/outfit/viper/2p5t5F5l8dasdf21a1a18180002405a6c2j.AwRj4yyA.AzCMBYVYCYYZnnUMRA==.?bn=Viper%20Combate)
 
-Información: La Viper es una nave orientada al combate puro. aguanta mucho y hace bastante daño. Se suele comprar si tu rol es Bounty Hunter o si no te llega para la cobra.
+*Información:* _La Viper es una nave orientada al combate puro. aguanta mucho y hace bastante daño. Se suele comprar si tu rol es Bounty Hunter o si no te llega para la cobra._
