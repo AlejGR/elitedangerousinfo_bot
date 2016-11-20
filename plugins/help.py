@@ -16,6 +16,6 @@ def help(m):
         txt = responses['help']['user']
         for a, b in responses['commands']['user'].items():
             txt += '\n/' + a + ': ' + b
-    txt += "\nVERSION " + version
+    txt += "\n\n*VERSION " + version*
     bot.send_chat_action(cid,'typing')
     bot.send_message(cid,txt)
