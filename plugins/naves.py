@@ -26,7 +26,7 @@ def command_naves(m):
     item16 = types.KeyboardButton('Viper MkIII')
     item17 = types.KeyboardButton('Vulture')
     item18 = types.KeyboardButton('Inicio')
-    markup.add(item1, item2, item3, item4, item5, item6, item7, item8, item9, item10, item11, item12, item13, item14, item15, item16, item17, item17, item18)
+    markup.add(item1, item2, item3, item4, item5, item6, item7, item8, item9, item10, item11, item12, item13, item14, item15, item16, item17, item18)
     bot.send_message(m.chat.id, "Selecione una opción: ", reply_markup=markup)
     userStep[m.from_user.first_name] = 'comandante'
 
@@ -35,6 +35,7 @@ def stepnave(m):
     cid = m.chat.id
     msg = m.text[:20]
     msgmin = msg.lower()
+    userStep[m.from_user.first_name] = 0
     naves = ['adder', 'anaconda', 'asp explorer','cobra mkiii', 'diamondback explorer', 'diamondback scout', 'eagle', 'fer-de-lance', 'hauler', 'orca', 'python', 'sidewinder', 'type 6', 'type 7', 'type 9', 'viper mkiii', 'vulture']
     if msgmin == "inicio":
         userStep[m.from_user.first_name] = 0
