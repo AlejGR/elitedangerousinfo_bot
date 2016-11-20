@@ -8,7 +8,7 @@ def usuarioscontar(m):
     archivo= open("usuarios.txt", "r")
     contenidousuario = archivo.read()
     lineas = len(open('usuarios.txt').readlines())
-    if uid in administrador:
+    if uid == administrador:
         bot.send_message(cid, contenidousuario + "\n" + 'Nº de usuarios: ' +  str(lineas))
     else:
         bot.send_message(cid, "Esta información es confidencial.")
