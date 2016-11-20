@@ -11,7 +11,7 @@ def setversion(m):
     else:
         bot.send_message(cid, "Comandante, usted no tienes permisos para realizar esta acción.")
 
-@bot.message_handler(func=lambda m: get_user_step(m.from_user.first_name) == 'comandante', content_types=['text'])
+@bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'comandante', content_types=['text'])
 def setversionstep(m):
     cid = m.chat.id
     msg = m.text[:20]
