@@ -2,7 +2,7 @@
 from config import *
 
 @bot.message_handler(func=lambda m: m.content_type == 'text' and m.text in ['Informacion'])
-bot.message_handler(commands=["info"])
+@bot.message_handler(commands=["info"])
 def command_info(m):
 cid = m.chat.id
 markup = types.InlineKeyboardMarkup()
