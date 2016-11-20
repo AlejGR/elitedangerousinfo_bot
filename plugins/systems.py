@@ -38,7 +38,7 @@ def sistemasstep(m):
             )
         else:
             consulta = "Me da que eso no existe."
+            bot.send_message(cid, consulta, parse_mode="Markdown")
     else:
         consulta = "Macho, pon el nombre"
-
-    bot.send_message(cid, consulta, parse_mode="Markdown")
+        bot.send_message(cid, consulta, parse_mode="Markdown")
