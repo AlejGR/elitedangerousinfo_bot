@@ -1,5 +1,5 @@
 #encoding=utf8
-from plugins import *
+from config import *
 
 @bot.message_handler(commands=['setversion'])
 def setversion(m):
