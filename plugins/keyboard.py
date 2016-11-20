@@ -15,7 +15,7 @@ def command_info(m):
     item6 = types.KeyboardButton('Contactar')
     item7 = types.KeyboardButton('Nave')
     item8 = types.KeyboardButton('Ocultar Teclado')
-    markup.add(item1, item2, item3, item4, item5, item6, item7)
+    markup.add(item1, item2, item3, item4, item5, item6, item7, item8)
     userStep[m.from_user.first_name] = 0
     bot.send_message(m.chat.id, "Selecione una opción: ", reply_markup=markup)
 
