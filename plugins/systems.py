@@ -13,7 +13,7 @@ def command_sistemas(m):
 def sistemasstep(m):
     name = m.chat[:20]
     g = ['Inicio','Sistemas','Productos','Radios','Ayuda','Creditos','Informacion','Contactar','Nave','Ocultar Teclado']
-    if name not in g
+    if name not in g:
         if len(m.text) >= 1:
             cid = m.chat.id
             name = m.text[:20]
