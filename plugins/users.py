@@ -5,9 +5,9 @@ from config import *
 def usuarioscontar(m):
     uid = m.from_user.id
     cid = m.chat.id
-    archivo= open("usuarios.txt", "r")
+    archivo= open("extras/usuarios.txt", "r")
     contenidousuario = archivo.read()
-    lineas = len(open('usuarios.txt').readlines())
+    lineas = len(open('extras/usuarios.txt').readlines())
     if uid == administrador:
         bot.send_message(cid, contenidousuario + "\n" + 'Nº de usuarios: ' +  str(lineas))
     else:
