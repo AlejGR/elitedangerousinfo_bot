@@ -5,7 +5,7 @@ from config import *
 def setversion(m):
     cid = m.chat.id
     uid = m.from_user.id
-    if uid in administrador:
+    if uid == administrador:
         bot.send_message(m.chat.id, 'Enviame la Versión')
         userStep[m.chat.first_name] = 'comandante'
     else:
