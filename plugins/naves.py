@@ -35,7 +35,6 @@ def stepnave(m):
     cid = m.chat.id
     msg = m.text[:20]
     msgmin = msg.lower()
-    userStep[m.from_user.first_name] = 0
     naves = ['adder', 'anaconda', 'asp explorer','cobra mkiii', 'diamondback explorer', 'diamondback scout', 'eagle', 'fer-de-lance', 'hauler', 'orca', 'python', 'sidewinder', 'type 6', 'type 7', 'type 9', 'viper mkiii', 'vulture']
     if msgmin == "inicio":
         userStep[m.from_user.first_name] = 0
