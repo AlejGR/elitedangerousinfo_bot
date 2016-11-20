@@ -12,10 +12,11 @@ def command_info(m):
     item3 = types.KeyboardButton('Radios')
     item4 = types.KeyboardButton('Ayuda')
     item5 = types.KeyboardButton('Creditos')
-    item6 = types.KeyboardButton('Contactar')
-    item7 = types.KeyboardButton('Nave')
-    item8 = types.KeyboardButton('Ocultar Teclado')
-    markup.add(item1, item2, item3, item4, item5, item6, item7, item8)
+    item6 = types.KeyboardButton('Informacion')
+    item7 = types.KeyboardButton('Contactar')
+    item8 = types.KeyboardButton('Nave')
+    item9 = types.KeyboardButton('Ocultar Teclado')
+    markup.add(item1, item2, item3, item4, item5, item6, item7, item8, item9)
     userStep[m.from_user.first_name] = 0
     bot.send_message(m.chat.id, "Selecione una opción: ", reply_markup=markup)
 
