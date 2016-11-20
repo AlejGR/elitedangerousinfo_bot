@@ -1,6 +1,6 @@
 #encoding=utf8
 
-from config_dev import *
+from config import *
 
 @bot.message_handler(func=lambda m: m.content_type == 'text' and m.text in ['Inicio'])
 
@@ -34,5 +34,3 @@ def command_hideboard(m):
     #b5 = types.InlineKeyboardButton("Contactar")
     #b6 = types.InlineKeyboardButton("Nave")
     #markup.add(b1, b2, b3, b4, b5, b6)
-
-    
