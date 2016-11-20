@@ -28,9 +28,9 @@ def command_naves(m):
     item18 = types.KeyboardButton('Inicio')
     markup.add(item1, item2, item3, item4, item5, item6, item7, item8, item9, item10, item11, item12, item13, item14, item15, item16, item17, item18)
     bot.send_message(m.chat.id, "Selecione una opción: ", reply_markup=markup)
-    userStep[m.from_user.first_name] = 'comandante'
+    userStep[m.chat.first_name] = 'comandante'
 
-@bot.message_handler(func=lambda m: get_user_step(m.from_user.first_name) == 'comandante', content_types=['text'])
+@bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'comandante', content_types=['text'])
 def stepnave(m):
     cid = m.chat.id
     msg = m.text[:20]

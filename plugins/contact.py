@@ -9,10 +9,10 @@ def command_contactar(m):
     name =m.chat.first_name
     markup = types.ForceReply(selective=False)
     bot.send_message(cid, "Escriba a continuación el mensaje", reply_markup=markup)
-    userStep[m.from_user.first_name] = 'comandante2'
+    userStep[m.chat.first_name] = 'comandante2'
     msg = m.text
 
-    @bot.message_handler(func=lambda m: get_user_step(m.from_user.first_name) == 'comandante2', content_types=['text'])
+    @bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'comandante2', content_types=['text'])
     def contactarstep(m):
         cid = m.chat.id
         msg = m.text[:20]

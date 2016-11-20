@@ -5,7 +5,7 @@ from config import *
 def command_responder(m):
     cid = m.chat.id # Al igual que el comando de difundidos, este tiene seguridad.
     uid = m.from_user.id
-    if uid in administrador:
+    if uid == administrador:
         mensajeA = m.text[9:] # En 'mensajeA' almacenamos el texto que hay a la izquierda del comando.
         mensajeID = mensajeA.split(" ")[0] # En 'mensajeID' estamos almacenando la primera palabra de 'mensajeA', que es el ID al cual mandamos el mensaje.
         mensajeB = mensajeA.replace(mensajeID, '') # En 'mensajeB', cogemos 'mensajeA' y le quitamos el ID.

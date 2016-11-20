@@ -7,9 +7,9 @@ def command_sistemas(m):
     cid = m.chat.id
     name = m.text
     bot.send_message(cid, "Introduzca el nombre del sistema")
-    userStep[m.from_user.first_name] = 'sistemas'
+    userStep[m.chat.first_name] = 'sistemas'
 
-@bot.message_handler(func=lambda m: get_user_step(m.from_user.first_name) == 'sistemas', content_types=['text'])
+@bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'sistemas', content_types=['text'])
 def sistemasstep(m):
     if len(m.text) >= 1:
         cid = m.chat.id

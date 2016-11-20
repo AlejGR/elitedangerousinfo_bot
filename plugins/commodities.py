@@ -7,9 +7,9 @@ def command_productos(m):
     cid = m.chat.id
     bot.send_message(cid,"introduzca el nombre del producto")
     name = m.text
-    userStep[m.from_user.first_name] = 'productos'
+    userStep[m.chat.first_name] = 'productos'
 
-@bot.message_handler(func=lambda m: get_user_step(m.from_user.first_name) == 'productos', content_types=['text'])
+@bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'productos', content_types=['text'])
 def productosstep(m):
     if len(m.text) >= 1:
         cid = m.chat.id
