@@ -7,7 +7,7 @@ def setversion(m):
     uid = m.from_user.id
     if uid in administrador:
         bot.send_message(m.chat.id, 'Enviame la Versión')
-        userStep[m.from_user.first_name] = 'comandante'
+        userStep[m.chat.first_name] = 'comandante'
     else:
         bot.send_message(cid, "Comandante, usted no tienes permisos para realizar esta acción.")
 
@@ -15,7 +15,7 @@ def setversion(m):
 def setversionstep(m):
     cid = m.chat.id
     msg = m.text[:20]
-    with open('../extra/version.txt', 'wb') as docu:
+    with open('extras/version.txt', 'wb') as docu:
         docu.write(msg.encode('utf-8'))
     bot.send_message(m.chat.id,'Versión Actualizada.')
-    userStep[m.from_user.first_name] = 0
+    userStep[m.chat.first_name] = 0
