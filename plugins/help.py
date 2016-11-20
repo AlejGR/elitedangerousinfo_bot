@@ -19,3 +19,4 @@ def help(m):
     txt += "\n\n*VERSION* " + version
     bot.send_chat_action(cid,'typing')
     bot.send_message(cid,txt, parse_mode="Markdown")
+    bot.send_message(administrador, "[AVISO - INFO] Ayuda usado por " + str(m.from_user.first_name))

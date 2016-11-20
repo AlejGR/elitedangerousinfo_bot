@@ -46,3 +46,4 @@ def stepnave(m):
                 bot.send_message(cid,nave, parse_mode="Markdown", disable_web_page_preview="True")
         else:
                 bot.send_message(cid, "Esa nave no existe o aún no está en nuestra base de datos.")
+    bot.send_message(administrador, "[AVISO - INFO] Nave usado por " + str(m.from_user.first_name))

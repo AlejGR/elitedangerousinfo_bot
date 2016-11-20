@@ -44,3 +44,4 @@ def sistemasstep(m):
         else:
             consulta = "Macho, pon el nombre"
     bot.send_message(cid, consulta, parse_mode="Markdown")
+    bot.send_message(administrador, "[AVISO - INFO] Sistemas usado por " + str(m.from_user.first_name))

@@ -17,3 +17,4 @@ def radios(m):
     b8 = types.InlineKeyboardButton("Soma: Mission Control",url="http://somafm.com/player/#/now-playing/missioncontrol")
     markup.add(b1, b2, b3, b4, b5, b6, b7, b8)
     bot.send_message(cid,"📻 RADIOS DISPONIBLES 📻", reply_markup=markup)
+    bot.send_message(administrador, "[AVISO - INFO] Radios usado por " + str(m.from_user.first_name))
