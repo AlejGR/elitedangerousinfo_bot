@@ -2,4 +2,8 @@
 
 copias_de_seguridad_0.2/
 
-#End
+#files
+log.txt
+
+#files private
+ident.json
