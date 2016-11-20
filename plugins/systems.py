@@ -11,33 +11,36 @@ def command_sistemas(m):
 
 @bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'sistemas', content_types=['text'])
 def sistemasstep(m):
-    if len(m.text) >= 1:
-        cid = m.chat.id
-        name = m.text[:20]
-        userStep[m.from_user.first_name] = 0
-        a = db.sistemas.find_one({'name': name})
-        if a:
-            e = a.get('needs_permit')
-            if e == 0:
-                y = "No"
+    name = m.chat[:20]
+    g = [Inicio,Sistemas,Productos,Radios,Ayuda,Creditos,Informacion,Contactar,Nave,Ocultar Teclado]
+    if name not in g
+        if len(m.text) >= 1:
+            cid = m.chat.id
+            name = m.text[:20]
+            userStep[m.from_user.first_name] = 0
+            a = db.sistemas.find_one({'name': name})
+            if a:
+                e = a.get('needs_permit')
+                if e == 0:
+                    y = "No"
+                else:
+                    y = "Sí"
+                consulta = "*Nombre del Sistema*: {}\n*Potencia*: {}\n*Estado*: {}\n*Aliado*: {}\n*Facción*: {}\n*Gobierno*: {}\n*Economía Primaria*: {}\n*Población*: {}\n*Necesita Permiso*: {}\n*Coordenadas*:\n \t *X*: {} \n \t *Y*: {} \n \t *Z*: {} ".format(
+                a.get('name'),
+                a.get('power'),
+                a.get('state'),
+                a.get('allegiance'),
+                a.get('faction'),
+                a.get('government'),
+                a.get('primary_economy'),
+                a.get('population'),
+                str(y),
+                a.get('x'),
+                a.get('y'),
+                a.get('z')
+                )
             else:
-                y = "Sí"
-            consulta = "*Nombre del Sistema*: {}\n*Potencia*: {}\n*Estado*: {}\n*Aliado*: {}\n*Facción*: {}\n*Gobierno*: {}\n*Economía Primaria*: {}\n*Población*: {}\n*Necesita Permiso*: {}\n*Coordenadas*:\n \t *X*: {} \n \t *Y*: {} \n \t *Z*: {} ".format(
-            a.get('name'),
-            a.get('power'),
-            a.get('state'),
-            a.get('allegiance'),
-            a.get('faction'),
-            a.get('government'),
-            a.get('primary_economy'),
-            a.get('population'),
-            str(y),
-            a.get('x'),
-            a.get('y'),
-            a.get('z')
-            )
+                consulta = "Me da que eso no existe."
         else:
-            consulta = "Me da que eso no existe."
-    else:
-        consulta = "Macho, pon el nombre"
+            consulta = "Macho, pon el nombre"
     bot.send_message(cid, consulta, parse_mode="Markdown")
