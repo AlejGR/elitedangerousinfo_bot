@@ -12,7 +12,7 @@ def command_sistemas(m):
 @bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'sistemas', content_types=['text'])
 def sistemasstep(m):
     name = m.chat[:20]
-    g = [Inicio,Sistemas,Productos,Radios,Ayuda,Creditos,Informacion,Contactar,Nave,Ocultar Teclado]
+    g = ['Inicio','Sistemas','Productos','Radios','Ayuda','Creditos','Informacion','Contactar','Nave','Ocultar Teclado']
     if name not in g
         if len(m.text) >= 1:
             cid = m.chat.id
