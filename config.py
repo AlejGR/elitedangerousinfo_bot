@@ -1,3 +1,9 @@
+#encoding=utf8
+import telebot
+from telebot import types
+import time
+import sys
+import os
 from imp import reload
 import urllib3
 reload(sys)
