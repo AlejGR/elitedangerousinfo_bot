@@ -16,4 +16,4 @@ def radios(m):
     b7 = types.InlineKeyboardButton("Third Rock Radio",url="http://thirdrockradio.rfcmedia.com/")
     b8 = types.InlineKeyboardButton("Soma: Mission Control",url="http://somafm.com/player/#/now-playing/missioncontrol")
     markup.add(b1, b2, b3, b4, b5, b6, b7, b8)
-    bot.send_message(cid,":radio: RADIOS DISPONIBLES :radio:", reply_markup=markup)
+    bot.send_message(cid,"📻 RADIOS DISPONIBLES 📻", reply_markup=markup)

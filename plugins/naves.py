@@ -43,6 +43,6 @@ def stepnave(m):
                 archivo = open("extras/naves/" + str(msgmin) + ".txt", "r")
                 nave = archivo.read()
                 bot.send_photo(cid,open("extras/naves/" + str(msgmin) + '.jpg','rb'))
-                bot.send_message(cid,nave, parse_mode="Markdown")
+                bot.send_message(cid,nave, parse_mode="Markdown", disable_web_page_preview="True")
         else:
                 bot.send_message(cid, "Esa nave no existe o aún no está en nuestra base de datos.")

@@ -17,5 +17,5 @@ def help(m):
         for a, b in responses['commands']['user'].items():
             txt += '\n/' + a + ': ' + b
     txt += "\nVERSION " + version
-    bot.send_chat_action(cid,'tryping')
+    bot.send_chat_action(cid,'typing')
     bot.send_message(cid,txt)
