@@ -7,11 +7,11 @@ def setversion(m):
     uid = m.from_user.id
     if uid == administrador:
         bot.send_message(m.chat.id, 'Enviame la Versión')
-        userStep[m.chat.first_name] = 'comandante'
+        userStep[m.chat.first_name] = 'version'
     else:
         bot.send_message(cid, "Comandante, usted no tienes permisos para realizar esta acción.")
 
-@bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'comandante', content_types=['text'])
+@bot.message_handler(func=lambda m: get_user_step(m.chat.first_name) == 'version', content_types=['text'])
 def setversionstep(m):
     cid = m.chat.id
     msg = m.text[:20]
