@@ -1,0 +1,27 @@
+*Type-9 Transporter*
+*Coste:* 76.555.842
+*Seguro:* 3.827.792
+*Velocidad Stock:* 130m/s
+*Velocidad máxima:* -m/s
+*Velocidad con Boost Stock:* 201m/s
+*Velocidad con Boost máxima:* -m/s
+*Maniobrabilidad:* 0
+*Escudos:* 88MJ
+*Armadura:* 432
+*Cargo:* 220T
+*Cargo máximo:* 532T
+*Capacidad de Salto:* 7.71ly
+*Capacidad Máxima de Salto:* 20.2ly
+*Hardpoints:* 2 pequeños, 3 medios
+*Utilities:* 4
+*Mass Lock:* 16
+*Landing Pad:* Grande
+
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/type_9_heavy/0pntsFklndssif61717-2jkp0002--0706054d0203020201.Iw18eQ==.Aw18eQ==.?bn=T9%20Comercio)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/type_9_heavy/0pntsFklndssif6171c1c2l2l0002--0706054d021vC0C0P4.Iw18eQ==.Aw18eQ==.?bn=T9%20Mineria)
+[Configuración de Comercio con Cazas](http://coriolis.edcd.io/outfit/type_9_heavy/0pntsFklndssif61c1c1c--0002--0706fm4d0203020201.Iw18eQ==.Aw18eQ==.?bn=T9%20Comercio%20con%20caza)
+[Configuración de Minería con Cazas](http://coriolis.edcd.io/outfit/type_9_heavy/0pntsFklndssif6171c1c2l2l0002--0706fm4d021vC0C0P4.Iw18eQ==.Aw18eQ==.?bn=T9%20Mineria%20con%20cazas)
+
+*Información:* _La T9 es una nave de transporte como su nombre indica. Fue muy usada hasta la salida de la Cutter por si gran capacidad. Es muy pesada y dificil de maniobrar._
+
+*Abreviaciones:* _T9, T-9, SpaceCow, SpaceDonkey, Rock with thrusters._

@@ -1,0 +1,26 @@
+*Hauler*
+*Coste:* 52.720
+*Seguro:* 2.636
+*Velocidad Stock:* 206m/s
+*Velocidad máxima:* -m/s
+*Velocidad con Boost Stock:* 309m/s
+*Velocidad con Boost máxima:* -m/s
+*Maniobrabilidad:* 6
+*Escudos:* 65MJ
+*Armadura:* 90
+*Cargo:* 8T
+*Cargo máximo:* 22T
+*Capacidad de Salto:* 9.87ly
+*Capacidad Máxima de Salto:* 37.29ly
+*Hardpoints:* 1 pequeño
+*Utilities:* 2
+*Mass Lock:* 6
+*Landing Pad:* Pequeño
+
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/hauler/0p3t0F0l3d3s3f2---01013r00.Iw19A===.Aw19A===.?bn=Hauler%20Comercio)
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/hauler/0p3t0F0l3d3s3f2-02023uC02i2f.AwRj4ig=.AzCMCY04GYfUIg==.?bn=Hauler%20Exploraci%C3%B3n)
+[Configuración de Taxi](http://coriolis.edcd.io/outfit/hauler/0p3t3F0l3d3s3f2---2t-56-.Iw19A===.Aw19A===.?bn=Hauler%20Taxi)
+
+*Información:* _La Hauler es una nave entre la Sidewinder y la Adder, tiene un cargo decente y un muy buen salto. Gracias a ese salto se suele usar como taxi._
+
+*Abreviaciones:* _Fragoneta espacial, Taxi._

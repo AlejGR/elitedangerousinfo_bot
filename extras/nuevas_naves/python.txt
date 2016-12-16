@@ -1,0 +1,28 @@
+*Python*
+*Coste:* 56.978.180
+*Seguro:* 2.848.909
+*Velocidad Stock:* 234m/s
+*Velocidad máxima:* 267m/s
+*Velocidad con Boost Stock:* 305m/s
+*Velocidad con Boost máxima:* 348m/s
+*Maniobrabilidad:* 6
+*Escudos:* 294MJ
+*Armadura:* 396
+*Cargo:* 82T
+*Cargo máximo:* 292T
+*Capacidad de Salto:* 8.23ly
+*Capacidad Máxima de Salto:* 30.45ly
+*Hardpoints:* 2 medios, 3 grandes
+*Utilities:* 4
+*Mass Lock:* 17
+*Landing Pad:* Medio
+
+[Configuración de Combate](http://coriolis.edcd.io/outfit/python/2pptkFflidussf51d1f1f2727040200024f5n5n5i5i2b292927.Iw18eQ==.Aw18eQ==.?bn=Python%20Combate)
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/python/0pstnFflidxssf5-1f1f2k2k00010404050505044a03020001.Iw18eQ==.Aw18eQ==.?bn=Python%20Comercio)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/python/0pstnFflidxssf51d1f1f2m2m00020404050505044a1vC0P92f.Iw18eQ==.Aw18eQ==.?bn=Python%20Mineria)
+[Configuración Multifunción](http://coriolis.edcd.io/outfit/python/0pstnFflidxssf51d1f1f2m2m00020404050505044a1vC0P92f.Iw18eQ==.Aw18eQ==.?bn=Python%20Mineria)
+[Configuración de Contrabando](http://coriolis.edcd.io/outfit/python/0prtkFflidussf51516161b1b04040203B1050504370302C02f.Iw18eQ==.Aw18eQ==.?bn=Pytohon%20smuglin)
+
+*Información:* La_ Python es una nave multipropósito, tiene buena bahía de carga y buenas armas. Es un muy buen trader ya que puede aterrizar en landing pads medios._
+
+*Abreviaciones:* _PT_

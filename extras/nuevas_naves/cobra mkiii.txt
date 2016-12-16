@@ -1,0 +1,26 @@
+*Cobra MkIII*
+*Coste:* 379.718
+*Seguro:* 18.985
+*Velocidad Stock:* 286m/s
+*Velocidad máxima:* 325m/s
+*Velocidad con Boost Stock:* 408m/s
+*Velocidad con Boost máxima:* 464m/s
+*Maniobrabilidad:* 6
+*Escudos:* 92MJ
+*Armadura:* 216
+*Cargo:* 18T
+*Cargo máximo:* 60T
+*Capacidad de Salto:* 10.46ly
+*Capacidad Máxima de Salto:* 28.55ly
+*Hardpoints:* 2 pequeños, 2 medios,
+*Utilities:* 2
+*Mass Lock:* 8
+*Landing Pad:* Pequeño
+
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/cobra_mk_iii/0pdtdFaldddsdf42kkp--0002030345010101.Iw1-kA==.Aw1-kA==.?bn=Cobra%20comercio)
+[Configuración de Combate](http://coriolis.edcd.io/outfit/cobra_mk_iii/2pataFaladasdf41b1b18180200455d3227272f.Iw1-kA==.Aw1-kA==.?bn=Cobra%20combate)
+[Configuración de Minería](http://coriolis.edcd.io/outfit/cobra_mk_iii/0pataFalddasdf41b1bmlml000203224801C5P4.Iw1-kA==.Aw1-kA==.?bn=Cobra%20Minera)
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/cobra_mk_iii/0pdtdFaldddsdf4----0202320n43v62g2h.Iw1-kA==.Aw1-kA==.?bn=Cobra%20Exploraci%C3%B3n)
+
+
+*Información:* _La Cobra es una nave buena en todos los roles. Es la que se usa si tu rol no es puramente combate al dejar la Sidewinder. Además también es una de las naves más emblematicas de Élite._

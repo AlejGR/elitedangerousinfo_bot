@@ -1,0 +1,26 @@
+*Asp Scout*
+*Coste:* 3.961.150
+*Seguro:* 198.057
+*Velocidad Stock:* 223m/s
+*Velocidad máxima:* 255m/s
+*Velocidad con Boost Stock:* 304m/s
+*Velocidad con Boost máxima:* 348m/s
+*Maniobrabilidad: 8
+*Escudos:* 105MJ
+*Armadura:* 324
+*Cargo:* 16T
+*Cargo máximo:* 52T
+*Capacidad de Salto:* 11.69ly
+*Capacidad Máxima de Salto:* 31.47ly
+*Hardpoints:* 2 pequeños, 2 medios
+*Utilities:* 2
+*Mass Lock:* 8
+*Landing Pad:* Medio
+
+[Configuración de Combate](http://coriolis.edcd.io/outfit/asp_scout/2pataFalddisif41b1b17170002455e592927.Iw19kA==.Aw19kA==.?bn=ASP%20Scout%20Combate)
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/asp_scout/0pdtdFalddisif4----0202320nv62f2i.Iw19kA==.Aw19kA==.?bn=ASP%20Scout%20exploracion)
+[Configuración de Comercio](http://coriolis.edcd.io/outfit/asp_scout/0pdtdFalddisif4--2jkp00020303400201.Iw19kA==.Aw19kA==.?bn=ASP%20Scout%20Comercio)
+
+*Información:* _La Asp Scout es una de las naves de nuevo modelo que se introdujeron, su uso es prácticamente nulo ya que en su rango de precio hay mejores naves en todos los aspectos._
+
+*Abreviaciones:* _AspS,  AScout._

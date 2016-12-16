@@ -1,0 +1,26 @@
+*Diamondback Scout*
+*Coste:* 564.320
+*Seguro:* 28.216
+*Velocidad Stock:* 286m/s
+*Velocidad máxima:* 329m/s
+*Velocidad con Boost Stock:* 384m/s
+*Velocidad con Boost máxima:* 441m/s
+*Maniobrabilidad:* 8
+*Escudos:* 92MJ
+*Armadura:* 216
+*Cargo:* 0T
+*Cargo máximo:* 28T
+*Capacidad de Salto:* 11.35ly
+*Capacidad Máxima de Salto:* 30.04ly
+*Hardpoints:* 2 pequeños, 2 medios
+*Utilities:* 4
+*Mass Lock:* 8
+*Landing Pad:* Pequeño
+
+[Configuración de Exploración](http://coriolis.edcd.io/outfit/diamondback/0p8tdFal8d8s8f4----0202--2t0i2f2i.Iw1-kA==.Aw1-kA==.?bn=Diamondback%20scout%20exploracion)
+[Configuración de Combate](http://coriolis.edcd.io/outfit/diamondback/2pataFal8das8f42a2a29290000020340292927.AwRj4yKA.Aw1-kA==.?bn=Diamondback%20scout%20combate)
+
+
+*Información:* _La Diamondback es una nave  tipo insecto (Relacionada con los Thargoides). Se usa en pvp con silent running y por su forma es muy dificil de dar con armas fijas._
+
+*Abreviaciones:* _DBS, MosquitoS._
