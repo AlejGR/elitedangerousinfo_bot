@@ -55,9 +55,9 @@ def stepnave(m):
     else:
         if msgmin in naves:
                 #archivo = open("extras/naves/" + str(msgmin) + ".txt", "r")
-                nave = archivo.read()
-                bot.send_photo(cid,open("extras/nuevas_naves" + str(msgmin) + '.png','rb'))
-                bot.send_message(cid,nave, parse_mode="Markdown", disable_web_page_preview="True")
+                #nave = archivo.read()
+                bot.send_photo(cid,open("extras/nuevas_naves/" + str(msgmin) + '.png','rb'))
+                #bot.send_message(cid,nave, parse_mode="Markdown", disable_web_page_preview="True")
         else:
                 bot.send_message(cid, "Esa nave no existe o aún no está en nuestra base de datos.")
     bot.send_message(administrador, "[AVISO - INFO] Nave usado por " + str(m.from_user.first_name))
